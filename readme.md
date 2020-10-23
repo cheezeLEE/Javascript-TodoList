@@ -20,17 +20,5 @@ Javascript를 이용해 오늘의 할일을 관리할 수 있는 TodoList 프로
     
 1. 실행화면
 
-첫화면
 
-<img src="https://postfiles.pstatic.net/MjAyMDEwMjNfMjQ2/MDAxNjAzNDMyNTYwNTcw.eszu4YYPI2MPsrNapH4jDHqTFPJcmJNXxjR9p7l6w98g.TC1nbWgC0lOVps3F2SExf58F_sUgZbuPtD1O8se5SJYg.PNG.zndn121/image.png?type=w773">
-
-배경색 변경 및 할일 추가
-
-<img src="https://postfiles.pstatic.net/MjAyMDEwMjNfMTk4/MDAxNjAzNDMyNTk3NDg0.ig2fjHCEKnBryC_rSa0t8FSMjQPlRdvG7JoIR5ndiKkg.eE3QYWnTd73lBwYsrt-VsROmaZ0DOrnkLbX3MdR-e-gg.PNG.zndn121/image.png?type=w773">
-
-목록 수정, 삭제, 초기화
-
-<img src="https://postfiles.pstatic.net/MjAyMDEwMjNfMjc1/MDAxNjAzNDMyNjYwMTY0.wc2nE03fa_ucYuolB5yXk5gq5sZWDe4XxuBe2nrShq8g.HlfcDz-4gmbbXV1fhboqh82TSnUQZnHhXFGli1szAdsg.PNG.zndn121/image.png?type=w773">
-<img src="https://postfiles.pstatic.net/MjAyMDEwMjNfMTgy/MDAxNjAzNDMyNjc4NTI1.XhjSLfp3Fc27R041jtMCJ6tVvJB9K1hEknyeLQINk2Qg.kvkn7jDnHrKC1g9F0tj2nMolyWC3-jEDTZiMyw5XrxMg.PNG.zndn121/image.png?type=w773">
-<img src="https://postfiles.pstatic.net/MjAyMDEwMjNfNCAg/MDAxNjAzNDMyNzA0NjIz.49Dd4Vll0JDFgn_267Ugvf3hD2V19gR2dnrkrJ6TuNkg.C1spvadF5UGo4WoQsVAxIPVUCIEByl4hPQUOtx9SqLgg.PNG.zndn121/image.png?type=w773">
-<img src="https://postfiles.pstatic.net/MjAyMDEwMjNfMTc3/MDAxNjAzNDMyNzE4MjE0.ooBLEo8XrYKo9wBc8CqJ-3irTswFCKkfBXWvQ8LCqJ0g.SNg-ugdY8Ivnqyh2WBINlQRbNxiCzCRVONybEZD2UQsg.PNG.zndn121/image.png?type=w773">
+<img src="https://postfiles.pstatic.net/MjAyMDEwMjNfMTQw/MDAxNjAzNDM0MDM0ODQ0.r3uOxO33rEYak_5Eim6UB8EycgqaS1epZpkWKg9IF7Mg.mBZKIJe0v5LF1TzQFQ05obyOkyMGxSO-dKSsXPwIit4g.GIF.zndn121/11.gif?type=w773">
