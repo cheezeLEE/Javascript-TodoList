@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="todolist.css">
+  <title>Document</title>
+</head>
+<body>
+  <div>
+    <header>
+    </header>
+    <section>
+      <nav>
+        <input type="text" name="work" id="work">
+        <input type="color" name="color" id="color" value="#FFFFFF" list="mycolor">
+        <datalist id="mycolor">
+          <option value="#FF0000">#FF0000</option>
+          <option value="#FF7F00">#FF7F00</option>
+          <option value="#FFFF00">#FFFF00</option>
+          <option value="#008000">#008000</option>
+          <option value="#B0E0E6">#B0E0E6</option>
+          <option value="#8B00FF">#8B00FF</option>
+          <option value="#808080">#808080</option>
+          <option value="#FFFFFF" selected>#FFFFFF</option>
+        </datalist>
+        <button type="button" id="add_btn">추가 </button> 
+        <button type="button" id="reset_btn">초기화</button>
+      </nav>
+      <article class="list">
+        <ul></ul>
+      </article>
+    </section>
+  </div>
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+  <script type="text/javascript" src="todolist.js"></script>
+</body>
+</html>

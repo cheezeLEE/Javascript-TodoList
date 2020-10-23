@@ -1,0 +1,79 @@
+body{
+  max-width: 550px;
+  margin: 0px;
+  font-weight: bold;
+}
+
+body h1{
+  margin: 0px;
+  padding: 10px;
+}
+
+body > div{
+  min-height: 500px;
+}
+
+section nav{
+  padding-left: 10px;
+  height: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+nav > input{
+  margin-right: 10px;
+}
+
+section nav #menu{
+  margin: 0px;
+  padding-left: 5px;
+}
+
+section nav #menu{
+  text-align: right;
+}
+
+section nav #menu li{
+  list-style: none;
+  text-decoration: none;
+}
+
+section nav #menu li a{
+  text-decoration: none;
+  color: black;
+}
+
+section nav #menu li .sub{
+  visibility: hidden;
+  padding-left: 0px;
+}
+
+section nav #menu > li:hover .sub{
+  visibility: visible;
+}
+
+#work{
+  width: 300px;
+}
+
+section .list ul li .update,
+section .list ul li .delete{
+  margin-left: 5px;
+  visibility: hidden;
+}
+
+section .list ul li:hover .update,
+section .list ul li:hover .delete{
+  visibility: visible;
+}
+
+#add_btn,
+#reset_btn{
+  padding-bottom: 20px;
+  margin-right : 5px;
+  vertical-align: center;
+}
+
+#work{
+  height: 20px;
+}
